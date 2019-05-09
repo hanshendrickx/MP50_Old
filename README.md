@@ -1,7 +1,8 @@
+## MPOSP stand for MediPrepare Open Source Project
 This Project is created by the creator of Mediprepare for the benefit of the health of all human beings.
-This Project is an Open Source Project.
+This Project is an Open Source Project. MPOSP stand for MediPrepare Open Source Project
 
-# MPOSP Project
+# MPOSP Open Source Medical Expert Knowledge Project MediPrepare
 MPOSP is a project to let all doctors at home create their own expert questionnaires with tools to catch their Expert Knowledge. 
 The needed software is open source, MPOSP will teach you how to set up the system on your own PC. 
 
