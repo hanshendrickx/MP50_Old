@@ -2,7 +2,7 @@
 This Project is created by the creator of Mediprepare for the benefit of the health of all human beings.
 This Project is an Open Source Project. MPOSP stand for MediPrepare Open Source Project
 
-# MPOSP Open Source Medical Expert Knowledge Project MediPrepare
+# Open Source Medical Expert Knowledge Project
 MPOSP is a project to let all doctors at home create their own expert questionnaires with tools to catch their Expert Knowledge. 
 The needed software is open source, MPOSP will teach you how to set up the system on your own PC. 
 
@@ -15,7 +15,7 @@ These questionnaires can be used for example to prepare your patients before an 
 Empowering patients, helping workflows in doctors offices, improving quality of healthcare, 
 for all patients, all doctors, at all times, at all places, in all languages.
 
-# Short Course to get started
+# Short introductory course to get started
 We are creating a 4 hours course, a total of 60 minutes video, and materials to get started. The course will help install: 1. Anaconda, 2. Python and Spyder and Visual Code MS (tegoether with Anaconda), 3. Django, 4. Open Source MP to create intelligent questionnaires to build in Expert Knowledge for your patients to prepare for your clinic. All open source software.
 
 # Development of a database with intelligent questions and questionnaires
