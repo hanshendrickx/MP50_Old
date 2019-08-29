@@ -1,5 +1,7 @@
 Readme.md
 
+# Patients pay and prepare, doctors deliver, programmers facilitate best care. (01 2019)
+
 # MPOSP stand for MediPrepare Open Source Project
 This Project is created by the creator of MediPrepare for the benefit of the health of all human beings.
 This Project is an Open Source Project. MPOSP stands for MediPrepare Open Source Project.
